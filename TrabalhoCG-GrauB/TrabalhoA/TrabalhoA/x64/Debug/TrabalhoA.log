@@ -1,0 +1,37 @@
+﻿  Camera.cpp
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\Camera.cpp(8,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\Camera.cpp(9,12): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\Camera.cpp(13,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\Camera.cpp(14,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\Camera.cpp(15,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\Camera.cpp(16,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Main.cpp
+  Object.cpp
+  ObjectReader.cpp
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\ObjectReader.cpp(67,35): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\ObjectReader.cpp(81,31): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\ObjectReader.cpp(157,80): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  SceneManager.cpp
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\SceneManager.cpp(47,19): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\SceneManager.cpp(49,26): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\SceneManager.cpp(81,28): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  Gerando Código...
+  glad.c
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwInit, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwTerminate, referenciado na função "public: int __cdecl SceneManager::run(void)" (?run@SceneManager@@QEAAHXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwCreateWindow, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwWindowShouldClose, referenciado na função "public: int __cdecl SceneManager::run(void)" (?run@SceneManager@@QEAAHXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwSetWindowShouldClose, referenciado na função "public: static void __cdecl SceneManager::key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@SceneManager@@SAXPEAUGLFWwindow@@HHHH@Z)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwGetFramebufferSize, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwPollEvents, referenciado na função "public: int __cdecl SceneManager::run(void)" (?run@SceneManager@@QEAAHXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwSetInputMode, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwSetCursorPos, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwSetKeyCallback, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwSetCursorPosCallback, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwSetScrollCallback, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwGetTime, referenciado na função "public: void __cdecl SceneManager::doTransformation(class Object *)" (?doTransformation@SceneManager@@QEAAXPEAVObject@@@Z)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwMakeContextCurrent, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwSwapBuffers, referenciado na função "public: int __cdecl SceneManager::run(void)" (?run@SceneManager@@QEAAHXZ)
+SceneManager.obj : error LNK2019: símbolo externo não resolvido, glfwGetProcAddress, referenciado na função "public: void __cdecl SceneManager::initialize(void)" (?initialize@SceneManager@@QEAAXXZ)
+..\..\dependencies\glfw-3.3.4.bin.WIN32\lib-vc2019\glfw3.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+C:\Users\baixi\Desktop\Uni\CG\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\x64\Debug\TrabalhoA.exe : fatal error LNK1120: 16 externo não resolvidos

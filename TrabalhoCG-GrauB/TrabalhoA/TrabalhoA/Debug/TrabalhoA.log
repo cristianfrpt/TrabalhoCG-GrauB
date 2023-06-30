@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+C:\Users\cristianfrpt\Desktop\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\SceneManager.cpp(586,28): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\cristianfrpt\Desktop\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\TrabalhoA\SceneManager.cpp(593,45): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  TrabalhoA.vcxproj -> C:\Users\cristianfrpt\Desktop\TrabalhoCG-GrauA-main\TrabalhoCG-GrauA-main\TrabalhoA\Debug\TrabalhoA.exe
