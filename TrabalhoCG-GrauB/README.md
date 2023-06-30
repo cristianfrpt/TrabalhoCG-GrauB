@@ -1,19 +1,15 @@
-Entrega do Trabalho do Grau A.
-Por Cristian Fraporti de Maman.
-
+Entrega do Trabalho do Grau B. Por Cristian Fraporti de Maman.
 
 Instruções:
 
-Padrão de movimentação = W, A, S, D
-Espaço = Sobe
-Ctrl = Desce
+Padrão de movimentação = W, A, S, D, Espaço = Sobe, Ctrl = Desce
+Mouse: zoom in e zoom out
 
 Controle dos modelos 3D:
-
 Q = Alterna entre modelos 3D;
 
-E = Alterna a operação de transformação que está sendo aplicada no modelo. (Transita entre 4 estados, sendo eles: Parado, Rotação, Translação, Alteração de escala).
+E = Seleciona a translação como transformação
+R = Seleciona a rotação como transformação
+T = Seleciona a escala como transformação
 
-R = Alterna o eixo do giro em x, y e z.
-
-
+Setas = Controlam a direção da transformação
