@@ -1,5 +1,7 @@
 Entrega do Trabalho do Grau B. Por Cristian Fraporti de Maman.
 
+Retirei as seguintes pastas por questão de peso: dependencies e Common
+
 Instruções:
 
 Padrão de movimentação = W, A, S, D, Espaço = Sobe, Ctrl = Desce
